@@ -1,0 +1,60 @@
+INSERT INTO Produtos (Nome, Preco) VALUES
+('Notebook Gamer RTX 4060', 5899.90),
+('Smartphone Android 256GB', 1899.99),
+('Fone Bluetooth Noise Cancelling', 349.90),
+('Teclado Mecânico RGB Switch Blue', 429.00),
+('Mouse Gamer 16000 DPI', 199.90),
+
+('Monitor UltraWide 29 Polegadas', 1299.90),
+('Cadeira Gamer Ergonômica', 899.00),
+('Webcam Full HD 1080p', 159.90),
+('SSD NVMe 1TB', 499.90),
+('HD Externo 2TB USB 3.0', 389.00),
+
+('Cafeteira Expresso Automática', 749.90),
+('Air Fryer 5L Digital', 459.90),
+('Liquidificador 1200W Turbo', 199.90),
+('Micro-ondas 30L Inox', 699.00),
+('Geladeira Frost Free 400L', 2899.00),
+
+('Pizza Congelada Calabresa', 24.90),
+('Chocolate Amargo 70% Cacau', 12.50),
+('Café Especial Moído 500g', 29.90),
+('Pack Energético 6 Latas', 39.90),
+('Água Mineral 1.5L', 3.50),
+
+('Camiseta Básica Algodão', 39.90),
+('Jaqueta Jeans Masculina', 179.90),
+('Tênis Esportivo Running', 249.90),
+('Relógio Digital Esportivo', 99.90),
+('Óculos de Sol Polarizado', 89.90),
+
+('Mochila Antifurto USB', 129.90),
+('Livro "Clean Code"', 79.90),
+('Livro "Arquitetura Limpa"', 84.90),
+('Kindle 11ª Geração', 499.90),
+('Luminária LED de Mesa', 59.90),
+
+('Smart TV 50" 4K UHD', 2399.00),
+('Soundbar Bluetooth 300W', 799.90),
+('Controle Xbox Sem Fio', 349.90),
+('PlayStation 5', 4499.90),
+('Jogo FIFA 25', 299.90),
+
+('Bicicleta Mountain Bike Aro 29', 1299.90),
+('Esteira Elétrica Dobrável', 2199.90),
+('Kit Halteres 20kg', 199.90),
+('Garrafa Térmica Inox 1L', 69.90),
+('Smartwatch Monitor Cardíaco', 299.90),
+
+('Perfume Importado 100ml', 399.90),
+('Kit Shampoo + Condicionador', 49.90),
+('Secador de Cabelo Profissional', 189.90),
+('Aparador de Barba Elétrico', 129.90),
+('Espelho Decorativo Redondo', 89.90),
+
+('Mesa de Escritório 120cm', 349.90),
+('Cadeira de Escritório Ergonômica', 599.90),
+('Quadro Decorativo Minimalista', 79.90),
+('Tapete Sala Antiderrapante', 149.90),
+('Cortina Blackout 2m', 119.90);
